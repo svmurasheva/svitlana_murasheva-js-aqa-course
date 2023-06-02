@@ -1,0 +1,20 @@
+{
+  "name": "svitlana_murasheva-js-aqa-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loops_hw.js",
+  "scripts": {
+	"start": "node loops_hw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svmurasheva/svitlana_murasheva-js-aqa-course.git"
+  },
+  "author": "s.v.murasheva@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svmurasheva/svitlana_murasheva-js-aqa-course/issues"
+  },
+  "homepage": "https://github.com/svmurasheva/svitlana_murasheva-js-aqa-course#readme"
+}
